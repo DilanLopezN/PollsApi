@@ -1,0 +1,10 @@
+
+
+#POLLS
+###
+POST http://localhost:3333/polls
+Content-Type: application/json
+
+{
+  "title": "Enquete 1"
+}
